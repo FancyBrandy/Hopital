@@ -1,4 +1,4 @@
-# Hopital
+# Hospital
 The whole world is going through a hard time due to pandemic,
 and it is important to help patient and provide them with care.
 
